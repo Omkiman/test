@@ -1,0 +1,18 @@
+[
+    {
+        "model": "Model S",
+        "brand": "Tesla"
+    },
+    {
+        "model": "Mustang",
+        "brand": "Ford"
+    },
+    {
+        "model": "Civic",
+        "brand": "Honda"
+    },
+    {
+        "model": "AAA",
+        "brand": "AAA"
+    }
+]
